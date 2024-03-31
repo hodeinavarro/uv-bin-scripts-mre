@@ -1,0 +1,5 @@
+#!/usr/env/bin python3
+
+from my_package import say
+
+say("Hello, World!")
